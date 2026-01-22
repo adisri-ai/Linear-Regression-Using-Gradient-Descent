@@ -1,7 +1,7 @@
 # Project Objective   
 To implement Multiple Linear Regression using Gradient Descent for predicting house prices on *Boston.csv* dataset.
 # Project Overview  
-For multiple-variable Linear Regression having equation of the form *(\^{y}_{i}=\beta _{0}+\beta _{1}x_{i1}+\beta _{2}x_{i2}+\dots +\beta _{p}x_{ip}+\epsilon _{i}\)*,   
+For multiple-variable Linear Regression having equation of the form *ŷ = m1x1 + m2x2 ..... + mnxn + c*,   
 the loss function can be measure using one of the following metrics:  
 1. **R-squared**
 2. **Mean-Squared Error**
